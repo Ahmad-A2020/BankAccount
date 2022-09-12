@@ -1,0 +1,4 @@
+Customer Name: Abc Test1                
+Card Number: 0123456789
+chequing account balance : 10900.0
+saving account balance : 24000.0
